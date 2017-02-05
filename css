@@ -1,15 +1,3 @@
-/* Variable definitions
-====================
-<Variable name="keycolor" description="Main Color" type="color" default="#299bfa" value="#299bfa"/>
-<Variable name="header_bg" description="Header Background Color" type="color" default="#222" value="#222222"/>
-<Variable name="footer_bg" description="Background Color Of The Footer" type="color" default="#333" value="#333333"/>
-<Variable name="main_bg_color" description="Background Color Of The Blog" type="color" default="#374551" value="#374551"/>
-<Group description="Backgrounds" selector=".body-fauxcolumns-outer">
-<Variable name="body.background.color" description="Outer Background" type="color" default="#374551" value="#374551"/>
-</Group>
-<Variable name="body.background" description="Body Background" type="background"
-color="$(body.background.color)" default="$(color) none repeat scroll top right" value="$(color) none repeat scroll top right"/>   
-*/
 /*======================================
 +/+ Styles
 ======================================*/
