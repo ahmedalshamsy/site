@@ -1,8 +1,3 @@
-/*
------------------------------------------------
-Name:        Ahmed Alshamsy
-Author :     http://www.ahmedalshamsy.com
------------------------------------------------ */
 /* Variable definitions
 ====================
 <Variable name="keycolor" description="Main Color" type="color" default="#299bfa" value="#299bfa"/>
@@ -2577,9 +2572,8 @@ display: none;
 .showpageNum a:hover,.showpage a:hover{border:1px solid #1573A3;background-color:#2b93ba;color:#fff}
 .showpageOf{display:none;margin:0}
 .showpagePoint{border:1px solid #1573A3;background-color:#2b93ba;color:#fff;;font-size:14px;margin:10px 3px;padding:5px 10px}
-/*======================================
-+/+ Styles-template-skin
-======================================*/
+
+
 body#layout {
 text-transform: capitalize;
 }
