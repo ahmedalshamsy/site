@@ -1,3 +1,8 @@
+/*
+-----------------------------------------------
+Name:        || فيزياء - أ / أحمد الشمسي ||
+Author :     http://www.ahmedalshamsy.com
+----------------------------------------------- */
 /* Variable definitions
 ====================
 <Variable name="keycolor" description="Main Color" type="color" default="#299bfa"/>
@@ -2573,8 +2578,6 @@ display: none;
 .showpageOf{display:none;margin:0}
 .showpagePoint{border:1px solid #1573A3;background-color:#2b93ba;color:#fff;;font-size:14px;margin:10px 3px;padding:5px 10px}
 
---></style>
-<style id='template-skin-1' type='text/css'><!--
 body#layout {
 text-transform: capitalize;
 }
@@ -2721,5 +2724,4 @@ border: 0;
 float: right;
 }
 #layout #footer-wrapper .container > .section:last-child {
-margin-left: 0;
-}
+margin-left: 0;}
